@@ -61,4 +61,4 @@ I enjoy exploring new technologies, solving real-world problems, and continuousl
 
 <p align="center" style="margin-top: 30px;">
   <img src="footer.svg?v=3" alt="Gabriel Ferreira Crimson Footer" width="100%" />
-</p># Amna-Coder404
+</p>
